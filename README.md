@@ -113,4 +113,10 @@ conventions are in [`AGENTS.md`](AGENTS.md). `pnpm dev`, `pnpm test`,
 [PolyForm Noncommercial 1.0.0](LICENSE). Free for personal use, friends and
 family, hobby projects, education and non-profits. **Not** for commercial
 use, including charging for access or running it as a paid service. If you
-want to do something commercial with it, ask first.
+want to do something commercial with it, ask first: podcast@ardwell.co.za.
+
+## Contact
+
+Questions, ideas, or you're a podcaster with thoughts on this: email
+**podcast@ardwell.co.za**. Bugs and feature requests are welcome as
+[GitHub issues](https://github.com/adojang/adfreepodcasts/issues).
